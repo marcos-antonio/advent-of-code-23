@@ -1,4 +1,12 @@
+# **IMPORTANT**
+This project is a clone of [Christopher Biscaridi's Advent of Code project](https://github.com/ChristopherBiscardi/advent-of-code). I chose to do this istead of a fork to not bring all the previous years to this project. The rest of the README will be the same, as it only contains some explanations and ways to setup and run the project.
+
+# AOC 2023 - Marcos Junior
+This project will contain all the source code used by me to solve the AOC 2023.
+
+
 # Advent of Code 2023
+
 
 This year I've pre-set up a series of functionality for testing, benchmarking, and otherwise evaluating the performance of our Rust programs.
 
